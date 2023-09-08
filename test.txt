@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 406F-E954
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+08-09-2023  11:54    <DIR>          .
+08-09-2023  11:44    <DIR>          ..
+08-09-2023  11:54                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  191,054,696,448 bytes free
